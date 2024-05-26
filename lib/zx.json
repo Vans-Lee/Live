@@ -4,15 +4,15 @@
 //配置地址:  clan://localhost/zxc.txt
 {
     "urls": [
+{"url": " ","name": "⚜️更新日期:2024.5.21⚜️"},
 {"url": "https://my5353.com/sftxl1","name": "⚜️爽翻天主线路"},
 {"url": "https://my5353.com/sftxl2","name": "⚜️爽翻天备用线路"},
 {"url": "http://itvbox.cc/云星日记","name": "⚜️云星家庭线路"},
 {"url": "http://我不是.肥猫.live/接口禁止贩卖","name": "⚜️肥猫线路"},//{"url": "http://小白.love","name": "⚜️肥猫备用1线路"},//{"url": "http://我不是.肥猫.live/","name": "⚜️肥猫备用2线路"},
-{"url": "http://饭太硬.top/tv","name": "⚜️饭太硬1线路"},
-{"url": "http://fan.xxooo.cf/tv","name": "⚜️饭太硬2线路"},
-{"url": "http://fan.888484.xyz/tv","name": "⚜️饭太硬3线路"},
+{"url": "http://饭太硬.top/tv","name": "⚜️饭太硬线路"},//{"url": "http://fan.888484.xyz/tv","name": "⚜️饭太硬备用线路"},
 {"url": "http://xhww.fun:63/小米/DEMO.json","name": "⚜️小米线路"},
 {"url": "http://tvbox.王二小放牛娃.xyz","name": "⚜️放牛线路"},
+{"url": "https://7988.kstore.space/dongchenys.json","name": "⚜️东辰线路"},
 {"url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0","name": "⚜️吾爱线路"},
 {"url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json","name": "⚜️PG线路"},
 {"url": "https://pastebin.com/raw/5NHaxyGR","name": "⚜️道长1线路"},
@@ -52,6 +52,7 @@
 {"url": "http://9xi4o.tk/0725.json","name": "⚜️4K云盘线路"},
 {"url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json","name": "⚜️心魔js线路"},
 {"url": "http://ok321.top/ok","name": "⚜️OK线路"},
+{"url": "https://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8","name": "⚜️分享者线路"},
 //{"url": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌","name": "⚜️讴歌线路"},
 {"url": "https://cf.weixine.net/ysc.json","name": "⚜️运输车线路"}
 ]}
