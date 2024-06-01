@@ -3,8 +3,7 @@
   "wallpaper_ms": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/bz_msw.json",
   "wallpaper": "https://moe.jitsu.top/img",
   "logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
-  // "spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
-  "spider": "https://my5353.com/Pg1jar",
+  "spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
 
   "sites": [
     {
@@ -54,6 +53,23 @@
       "ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/玩偶哥哥.json",
       "jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"
     },
+    // 土豆网盘
+    {
+      "key": "土豆网盘",
+      "name": "土豆4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top"
+      },
+      "timeout": 25,
+      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt"
+    },
     // 南瓜
     {
       "key": "drpy_js_南瓜",
@@ -63,7 +79,6 @@
       "ext": "http://127.0.0.1:9978/file/TVBox/JS/js/南瓜.js",
       "jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
     },
-
     // 360影视
     {
       "key": "360_spider",
