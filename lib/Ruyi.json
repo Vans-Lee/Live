@@ -3,16 +3,16 @@
   "wallpaper_ms": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/bz_msw.json",
   "wallpaper": "https://moe.jitsu.top/img",
   "logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
-  "spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
+  "spider": "/TVBox/jar/fm.jar",
 
   "sites": [
     {
       "key": "drpy",
       "name": "🌎豆瓣荐片",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
-      "ext": "http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js",
-      "jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
+      "ext": "/TVBox/JS/js/drpy.js",
+      "api": "/TVBox/JS/lib/drpy2.min.js",
+      "jar": "/TVBox/jar/fm.jar"
     },
     {
       "key": "Alist",
