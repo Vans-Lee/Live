@@ -21,3 +21,4 @@ EPG Sources are from:
 # TVBox 在线地址
 
 - https://raw.githubusercontents.com/Vans-Lee/TVBox/main/lib/ksck.json
+- https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vans-Lee/TVBox/main/lib/ksck.json
