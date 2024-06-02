@@ -3,16 +3,16 @@
   "wallpaper_ms": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/bz_msw.json",
   "wallpaper": "https://moe.jitsu.top/img",
   "logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
-  "spider": "/TVBox/jar/fm.jar",
+  "spider": "../jar/fm.jar",
 
   "sites": [
     {
       "key": "drpy",
       "name": "🌎豆瓣荐片",
       "type": 3,
-      "ext": "/TVBox/JS/js/drpy.js",
-      "api": "/TVBox/JS/lib/drpy2.min.js",
-      "jar": "/TVBox/jar/fm.jar"
+      "ext": "../JS/js/drpy.js",
+      "api": "../JS/lib/drpy2.min.js",
+      "jar": "../jar/fm.jar"
     },
     {
       "key": "Alist",
@@ -33,13 +33,13 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
-        "quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt",
+        "aliToken": "../jar/alitoken.txt",
+        "quarkCookie": "../jar/quark_cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       },
-      "jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
+      "jar": "../jar/fm.jar"
     },
     // Hk玩偶
     {
@@ -50,8 +50,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/玩偶哥哥.json",
-      "jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"
+      "ext": "../Hk/XYQHiker/玩偶哥哥.json",
+      "jar": "../Hk/Hk.jar"
     },
     // 土豆网盘
     {
@@ -63,8 +63,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt",
+        "token": "../jar/alitoken.txt",
+        "cookie": "../jar/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
@@ -75,9 +75,9 @@
       "key": "drpy_js_南瓜",
       "name": "🎃南瓜App",
       "type": 3,
-      "api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
-      "ext": "http://127.0.0.1:9978/file/TVBox/JS/js/南瓜.js",
-      "jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
+      "api": "../JS/lib/drpy2.min.js",
+      "ext": "../JS/js/南瓜.js",
+      "jar": "../jar/fm.jar"
     },
     // 360影视
     {
@@ -89,7 +89,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "playUrl": "https://jx.m3u8.tv/jiexi/?url=",
-      "jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"
+      "jar": "../Hk/Hk.jar"
     },
     // 茶杯狐
     {
