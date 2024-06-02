@@ -3,16 +3,16 @@
   "wallpaper_ms": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/bz_msw.json",
   "wallpaper": "https://moe.jitsu.top/img",
   "logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
-  "spider": "./jar/fm.jar",
-
+  // "spider": "http://127.0.0.1:9978/file/TVBohttp://127.0.0.1:9978/file/TVBox/jar/fm.jar",
+  "spider": "https://my5353.com/Pg1jar",
   "sites": [
     {
       "key": "drpy",
       "name": "🌎豆瓣荐片",
       "type": 3,
-      "ext": "./JS/js/drpy.js",
-      "api": "./JS/lib/drpy2.min.js",
-      "jar": "./jar/fm.jar"
+      "ext": "http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js",
+      "api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
+      "jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
     },
     {
       "key": "Alist",
@@ -33,13 +33,13 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "./jar/alitoken.txt",
-        "quarkCookie": "/jar/quark_cookie.txt",
+        "aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
+        "quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       },
-      "jar": "./jar/fm.jar"
+      "jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
     },
     // Hk玩偶
     {
@@ -50,34 +50,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./Hk/XYQHiker/玩偶哥哥.json",
-      "jar": "./Hk/Hk.jar"
+      "ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/玩偶哥哥.json",
+      "jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"
+    },
+    // PG玩偶
+    {
+      "key": "Wogg",
+      "name": "🧸玩偶┃(PG)",
+      "type": 3,
+      "api": "csp_Wogg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "http://127.0.0.1:9978/file/TVBox/pg/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$http://127.0.0.1:9978/file/TVBox/pg/lib/wogg.json"
     },
     // 土豆网盘
     {
       "key": "土豆网盘",
-      "name": "土豆4K",
+      "name": "🥔土豆4K",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "./jar/alitoken.txt",
-        "cookie": "./jar/quark_cookie.txt",
+        "token": "http://127.0.0.1:9978/file/TVBohttp://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBohttp://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
       "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt"
-    },
-    // 南瓜
-    {
-      "key": "drpy_js_南瓜",
-      "name": "🎃南瓜App",
-      "type": 3,
-      "api": "./JS/lib/drpy2.min.js",
-      "ext": "./JS/js/南瓜.js",
-      "jar": "./jar/fm.jar"
     },
     // 360影视
     {

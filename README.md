@@ -22,3 +22,8 @@ EPG Sources are from:
 
 - https://raw.githubusercontents.com/Vans-Lee/TVBox/main/lib/ksck.json
 - https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vans-Lee/TVBox/main/lib/ksck.json
+
+
+# 蜂蜜TV在线地址
+- https://raw.githubusercontents.com/Vans-Lee/TVBox/main/lib/ksck1.json
+- https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vans-Lee/TVBox/main/lib/ksck1.json
