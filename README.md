@@ -18,12 +18,3 @@ EPG Sources are from:
 - 方法一（推荐）：在tv文件夹中下载TiviMate  2.1.5.apk，安装到电视上导入直播源，想体验正版的朋友可以去闲鱼上49块钱购入正版账号，前往[官网](https://www.tivimate.org/)查看使用说明，并下载最新4.7版本并使用。
 - 方法二：在任意版本TVBox（影视仓、可视TV等）中填入直播源链接即可。
 
-# TVBox 在线地址
-
-- https://raw.githubusercontents.com/Vans-Lee/TVBox/main/lib/ksck.json
-- https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vans-Lee/TVBox/main/lib/ksck.json
-
-
-# 蜂蜜TV在线地址
-- https://raw.githubusercontents.com/Vans-Lee/TVBox/main/lib/ksck1.json
-- https://mirror.ghproxy.com/https://raw.githubusercontent.com/Vans-Lee/TVBox/main/lib/ksck1.json
