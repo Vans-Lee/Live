@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "lf_js_search",
-      "name": "🍀༺主༒页༻🍀",
+      "name": "📺主页",
       "type": 3,
       "searchable": 0,
       "changeable": 0,
@@ -24,30 +24,8 @@
       "ext": "./lib/douban.json"
     },
     {
-      "key": "配置中心",
-      "name": "☯️️༺OK配置༻☯️",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      }
-    },
-    {
-      "key": "网盘配置",
-      "name": "☣️️༺PG配置༻☣️",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/tokenm.json"
-    },
-    {
       "key": "玩偶弹幕版",
-      "name": "👽丨玩偶哥哥【☯️】",
+      "name": "🧸玩偶┃OK",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -64,7 +42,7 @@
     },
     {
       "key": "ali.lvdoui.top",
-      "name": "🥜丨土豆 盘【☣️】",
+      "name": "🥔土豆4K",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
